@@ -7,7 +7,7 @@ function Navbar() {
         <div className="container flex justify-between mx-auto my-0">
           <div className="flex items-center text-3xl font-extrabold text-white">
             {/* <img src={logo} alt="Innovative Waris Logo" className="w-10 mr-2" /> */}
-            Innovative Waris
+            Innovative W
           </div>
           <ul className="list-none flex justify-end items-center">
             <li className="mx-2">

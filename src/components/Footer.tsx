@@ -22,7 +22,7 @@ function Footer() {
               </Link>
             </li>
             <li>
-              <Link
+              {/* <Link
                 to="/privacy-policy"
                 className="hover:underline me-4 md:me-6"
               >
@@ -32,7 +32,7 @@ function Footer() {
             <li>
               <Link to="/licensing" className="hover:underline me-4 md:me-6">
                 Licensing
-              </Link>
+              </Link> */}
             </li>
             <li>
               <Link to="/contact" className="hover:underline">
@@ -43,11 +43,8 @@ function Footer() {
         </div>
         <hr className="my-6 border-gray-200 sm:mx-auto  lg:my-8" />
         <span className="block text-sm text-white sm:text-center ">
-          © 2023{" "}
-          <a href="https://flowbite.com/" className="hover:underline">
-            Flowbite™
-          </a>
-          . All Rights Reserved.
+          © 2024 <a className="hover:underline">Innovative W</a>. All Rights
+          Reserved.
         </span>
       </div>
     </footer>
